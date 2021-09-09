@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @holoproduct
 - 👀 I’m interested in learning to web developement
-- 🌱 I’m currently learning html & css
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Javascript
+- 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me on twitter @holoproduct or hologodproductions@gmail.com
 
 <!---
